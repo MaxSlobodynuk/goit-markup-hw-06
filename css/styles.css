@@ -512,6 +512,7 @@ img{
     border: 1px solid rgba(255, 255, 255, 0.6);
     border-radius: 4px;
     outline: none;
+    color: #FFFFFF;
 }
 
 .footer-subscribe-input::placeholder {
@@ -705,6 +706,7 @@ img{
 }
 
 .modal-close {
+    cursor: pointer;
     width: 24px;
     height: 24px;
     border: 1px solid rgba(0, 0, 0, 0.1);
